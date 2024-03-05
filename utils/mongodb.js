@@ -2,7 +2,7 @@
 import mongoose from "mongoose";
 
 /* Utils */
-import logger from './winstonLogger.js';
+import logger from './logger.js';
 
 /* Non-Exports */
 var connection;
